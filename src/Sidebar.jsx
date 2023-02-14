@@ -12,7 +12,7 @@ function Sidebar() {
     <>
       <h1 style={{ color: "black", paddingLeft: "30%" }}>
         Student & Teacher Management
-      </h1>
+      </h1> 
      
 
       <nav class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
