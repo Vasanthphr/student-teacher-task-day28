@@ -9,7 +9,7 @@ function Portal() {
             <Sidebar></Sidebar>
             <div id="content-wrapper" class="d-flex flex-column">
                 <div id="content">
-                    <Topbar></Topbar>
+                 
                     <Outlet />
                 </div>
             </div>
